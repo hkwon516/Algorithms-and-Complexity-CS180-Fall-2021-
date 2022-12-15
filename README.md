@@ -10,3 +10,4 @@ UCLA CS180(Fall 2021) Algorithms and Complexity with Professor Cho-Jui Hsieh
 | Homework 3  | 98.5  |
 | Homework 4 | 100  |
 | Final | 76   |
+| Final Grade | A   |
