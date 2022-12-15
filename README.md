@@ -9,4 +9,4 @@ UCLA CS180(Fall 2021) with Professor
 | Midterm      | 94      |
 | Homework 3  | 98.5  |
 | Homework 4 | 100  |
-| Final | 74   |
+| Final | 76   |
